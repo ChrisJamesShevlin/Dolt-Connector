@@ -9,7 +9,7 @@ This repository contains a Python script that connects to a **MySQL database** a
 - [Usage](#usage)
 - [Customization](#customization)
 - [Error Handling](#error-handling)
-- [License](#license)
+
 
 ## Overview
 
@@ -121,9 +121,6 @@ finally:
 
 This ensures that your MySQL connection is gracefully closed after each operation, preventing any potential issues with unclosed connections.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
 
 ---
 
